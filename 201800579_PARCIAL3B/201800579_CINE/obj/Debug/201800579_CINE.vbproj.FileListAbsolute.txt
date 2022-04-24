@@ -1,0 +1,13 @@
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\bin\Debug\201800579_CINE.exe.config
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\bin\Debug\201800579_CINE.exe
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\bin\Debug\201800579_CINE.pdb
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\bin\Debug\201800579_CINE.xml
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.vbproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\_201800579_CINE.Form1.resources
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\_201800579_CINE.Resources.resources
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.exe
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.xml
+C:\Users\ferna\source\repos\201800579_CINE\201800579_CINE\obj\Debug\201800579_CINE.pdb
